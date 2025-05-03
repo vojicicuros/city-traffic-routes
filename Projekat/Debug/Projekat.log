@@ -1,0 +1,34 @@
+﻿  GradskaMreza.cpp
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(169,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(211,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(234,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(257,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(294,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(308,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(323,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(331,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(335,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(337,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(345,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(346,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(373,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(377,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(382,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(389,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(403,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(421,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(429,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(444,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\Projekat\Projekat\GradskaMreza.cpp(448,20): warning C4018: '<': signed/unsigned mismatch
+  Projekat.vcxproj -> C:\Users\pc\source\repos\Projekat\Debug\Projekat.exe
