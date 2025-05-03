@@ -32,6 +32,7 @@ The application supports:
 - CMake (optional but recommended)
 
 ## 📂 Input File Format
+
 - stajalista.txt: Defines stations  
 154 Aleksandra Karadjordjevica
 578 Bulevar oslobodjenja
@@ -46,3 +47,9 @@ The application supports:
 MINI [06:30-22:00#30] 154 578 23 1024 111 1221 1212  
 81L [06:30-22:00#20] 154 578 23 1024 103 123 422 3112 219 1 312
 
+## 🧪 Example Usage
+
+Sample query: "Find best route from `154` to `422`"
+Optimal route:
+Line 12: 154 → 578 → 123 → 422
+Estimated travel time: 15 minutes
