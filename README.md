@@ -2,6 +2,9 @@
 
 This project simulates a simplified public transportation network for a city using C++. It uses graphs to model stations and lines, allowing users to compute shortest paths, analyze connectivity, and explore the transport system structure.
 
+![image](https://github.com/user-attachments/assets/573a298a-1ba7-4728-a320-12e3462b4bb1)
+
+
 ---
 
 ## 📌 Overview
